@@ -1,0 +1,32 @@
+.container {
+width: 400px;
+margin: 50px auto;
+padding: 25px;
+text-align: center;
+background-color: #f0f8ff;
+border: 2px solid #3498db;
+border-radius: 10px;
+}
+
+h1 {
+color: #2c3e50;
+}
+
+.loading {
+color: #e67e22;
+}
+
+.dashboard {
+margin-top: 20px;
+padding: 15px;
+background-color: white;
+border-radius: 8px;
+}
+
+.dashboard h2 {
+color: #2980b9;
+}
+
+.dashboard p {
+font-size: 18px;
+}
